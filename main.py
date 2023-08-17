@@ -1,4 +1,4 @@
 def helloworld():
-    print("Vamos ver se o git funciona caralhooo")
+    print("Vamos ver se o git funciona")
 
 helloworld()
